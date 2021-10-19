@@ -1,0 +1,10 @@
+li {
+    background-color: burlywood;
+    padding: 5px;
+    display: inline-block;
+}
+
+ul {
+    background-color: gainsboro;
+    width: 25%;
+}
